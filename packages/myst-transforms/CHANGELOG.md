@@ -1,5 +1,17 @@
 # myst-transforms
 
+## 1.3.37
+
+### Patch Changes
+
+- 224da08: Underline tag in html is underline not emphasis
+- Updated dependencies [0b28481]
+- Updated dependencies [fefffff]
+  - myst-spec-ext@1.8.1
+  - myst-frontmatter@1.8.1
+  - myst-common@1.8.1
+  - myst-to-html@1.5.15
+
 ## 1.3.36
 
 ### Patch Changes
