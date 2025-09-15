@@ -1,5 +1,11 @@
 # mystmd
 
+## 1.6.2
+
+### Patch Changes
+
+- 3cd61d6: Add --config option to CLI to override default myst.yml
+
 ## 1.6.1
 
 ## 1.6.0
