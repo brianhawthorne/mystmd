@@ -1,5 +1,11 @@
 # myst-cli
 
+## 1.6.3
+
+### Patch Changes
+
+- 8492fb0: Add `--keep-host` to the `myst build` command.
+
 ## 1.6.2
 
 ### Patch Changes
